@@ -16,3 +16,14 @@ How will I know this is working? In your pool You will see a new worker named "c
 Does this work for future releases of Claymore ? No, I will manually update future Claymore releases.
 
 I'm getting lower hashrate with your Claymore than original. Run it for at least 24 hours so that pool statistics even out from downtime where You swapped to Claymore 11.7 No Fee
+
+Latest version is v11.7:
+
+- added temperature management and overclock support for recent Nvidia cards in Windows: "-tt", "-powlim", "-cclock", "-mclock", "-tt", "-fanmax", "-fanmin" options are supported for Nvidia too.
+- now "y" key also disables CrossFire.
+- added "-y" option.
+- fixed issue with miner restart that was required sometimes to apply overclock settings for AMD cards.
+- fixed issue with rejected shares when "-esm 3" option is used.
+- Linux version: fixed issue with remote management.
+- some changes in watchdog routines to improve ability to restart miner after various OpenCL fails.
+- a few minor bug fixes and improvements.
